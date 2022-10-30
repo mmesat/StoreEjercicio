@@ -1,0 +1,5 @@
+M:\Proyectos\Customers\WebStoreServer\WebStroe.CommonTools\bin\Debug\WebStroe.CommonTools.dll
+M:\Proyectos\Customers\WebStoreServer\WebStroe.CommonTools\bin\Debug\WebStroe.CommonTools.pdb
+M:\Proyectos\Customers\WebStoreServer\WebStroe.CommonTools\obj\Debug\WebStroe.CommonTools.csprojResolveAssemblyReference.cache
+M:\Proyectos\Customers\WebStoreServer\WebStroe.CommonTools\obj\Debug\WebStroe.CommonTools.dll
+M:\Proyectos\Customers\WebStoreServer\WebStroe.CommonTools\obj\Debug\WebStroe.CommonTools.pdb

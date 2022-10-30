@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bebf7630-386b-404f-a140-30707c10a662" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:33045/WebStoreServices.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WebStoreServices.xsd" MetadataType="Schema" ID="b67c4c28-f370-49ed-b204-1676cab81ed1" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?xsd=xsd0" />
+    <MetadataFile FileName="WebStoreServices1.xsd" MetadataType="Schema" ID="32d92f3d-77ae-4111-a7bd-f3250422336e" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?xsd=xsd3" />
+    <MetadataFile FileName="WebStoreServices2.xsd" MetadataType="Schema" ID="470d3093-b032-4eb7-a084-179da66fe020" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?xsd=xsd4" />
+    <MetadataFile FileName="WebStoreServices3.xsd" MetadataType="Schema" ID="ab08cd27-70af-4323-bcf5-7b6c945231ed" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?xsd=xsd1" />
+    <MetadataFile FileName="WebStoreServices.wsdl" MetadataType="Wsdl" ID="f0b7db28-4759-42de-b2cc-93b684021c19" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?wsdl" />
+    <MetadataFile FileName="WebStoreServices4.xsd" MetadataType="Schema" ID="47931850-f27c-443d-8185-8087b792084c" SourceId="1" SourceUrl="http://localhost:33045/WebStoreServices.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

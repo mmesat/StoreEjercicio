@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WebStore.Entities.WCF" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WebStore.Entities.WCF" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:33045/WebStoreServices.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/WebStore.Entities" />
+  <xs:complexType name="DTOResult">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WebStore.Entities" minOccurs="0" name="Code" type="q1:Enums.ResponseCode" />
+      <xs:element minOccurs="0" name="Messaje" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StackError" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOResult" nillable="true" type="tns:DTOResult" />
+</xs:schema>

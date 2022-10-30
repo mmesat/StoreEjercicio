@@ -1,0 +1,5 @@
+M:\Proyectos\Customers\WebStoreServer\WebStore.Entities\bin\Debug\WebStore.Entities.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Entities\bin\Debug\WebStore.Entities.pdb
+M:\Proyectos\Customers\WebStoreServer\WebStore.Entities\obj\Debug\WebStore.Entities.csprojResolveAssemblyReference.cache
+M:\Proyectos\Customers\WebStoreServer\WebStore.Entities\obj\Debug\WebStore.Entities.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Entities\obj\Debug\WebStore.Entities.pdb

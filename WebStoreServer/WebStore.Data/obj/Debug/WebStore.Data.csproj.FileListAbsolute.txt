@@ -1,0 +1,11 @@
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStore.Data.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStore.Data.pdb
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\Dapper.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStore.Entities.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStroe.CommonTools.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStore.Entities.pdb
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\WebStroe.CommonTools.pdb
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\bin\Debug\Dapper.xml
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\obj\Debug\WebStore.Data.csprojResolveAssemblyReference.cache
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\obj\Debug\WebStore.Data.dll
+M:\Proyectos\Customers\WebStoreServer\WebStore.Data\obj\Debug\WebStore.Data.pdb
